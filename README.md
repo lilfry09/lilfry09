@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🥭 I'm a sophomore at SJTU SAI
+- 🥭 I'm a sophomore at SJTU 
 - 🔭 I’m currently working on llm coding agent and continuous learning, and now intern in XYZL
 - 🌱 I’m currently learning some public courses like CS336, CS149
 - 📫 How to reach me: lilfry09@sjtu.edu.cn or 1727853008@qq.com, feel free to contact me! I love communicating with friends
